@@ -32,8 +32,5 @@ Also, the code is to be cited in the acknowledgement section of the paper as
 or using the doi: in the method section of the paper
 
 
-# Contact 
-If there are problems with the contents of the project are discovered, 
-please contact 
-Therese Nøst or
-Eiliv Lund (eiliv.lund@uit.no.
+# Issues 
+If any issues regarding the contents of the repository are discovered, we welcome feed-back.
