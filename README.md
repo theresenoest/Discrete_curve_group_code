@@ -1,6 +1,6 @@
 # Discrete_curve_group_code
 
-This repository contains the code used for curve group analyses of genes as performed in [Lund et al. 2016](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
+This repository contains the code used for curve group analyses of genes as performed in [Lund et al. 2016.](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
 The code was created by the Norwegian Computing Centre.
 
 
@@ -25,13 +25,13 @@ duration in time that is included in each curve group (in analyseCancerData.r)
 
 # Citation
 
-When used, the method should be cited with reference to [Lund et al. 2016](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
+When used, the method should be cited with reference to [Lund et al. 2016.](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
 
 Also, the code is to be cited in the acknowledgement section of the paper as 
 "The code used for analysis is provided in a repository at https://github. com/xxx"
 
-or using the doi: in the method section of the paper
+or using the following doi: in the method section of the paper
 
 
 # Issues 
-If any issues regarding the contents of the repository are discovered, we welcome feed-back.
+Please report any issues regarding the contents of the repository [here] (https://github.com/theresenoest/Discrete_curve_group_code/issues). 
