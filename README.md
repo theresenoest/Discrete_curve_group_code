@@ -28,7 +28,7 @@ duration in time that is included in each curve group (in analyseCancerData.r)
 When used, the method should be cited with reference to [Lund et al. 2016.](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
 
 Also, the code is to be cited in the acknowledgement section of the paper as 
-"The code used for analysis is provided in a repository at https://github. com/xxx"
+"The code used for analysis is provided in a repository at https://github.com/theresenoest/Discrete_curve_group_code"
 
 or using the following doi: in the method section of the paper
 
