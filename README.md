@@ -35,4 +35,4 @@ or using the following doi: in the method section of the paper
 Lisence: MIT
 
 # Issues 
-Please report any issues regarding the contents of the repository [here]. (https://github.com/theresenoest/Discrete_curve_group_code/issues) 
+Please report any issues regarding the contents of the repository [here] (https://github.com/theresenoest/Discrete_curve_group_code/issues). 
