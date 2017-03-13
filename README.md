@@ -1,7 +1,7 @@
 # Discrete_curve_group_code
 
 This repository contains the code used for curve group analyses of gene expression data with respect to time to diagnosis as described in [Lund et al. 2016.](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
-The code was created by the Norwegian Computing Centre.
+The code was created by the Norwegian Computing Center for data in the Norwegian Women and Cancer Study and has been modified to become more general.
 
 
 # Repository
@@ -28,8 +28,6 @@ Further details can be found in each script.
 When used, the method should be cited with reference to [Lund et al. 2016.](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
 
 Also, the code is to be cited using the following doi: doi:XXX when describing the methods or using e.g. the following sentence as an acknowledgement: "The code used for analysis was provided in a repository at https://github.com/theresenoest/Discrete_curve_group_code".
-
-Lisence: MIT
 
 # Issues 
 Please report any issues regarding the contents of the repository [here] (https://github.com/theresenoest/Discrete_curve_group_code/issues). 
