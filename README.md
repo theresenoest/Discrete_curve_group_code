@@ -23,11 +23,11 @@ duration in time that is included in each curve group must be considered and cho
 Also, adjustments of e.g. reading of the data, variable names and file paths must be performed for each data set.
 Further details can be found in each script.
 
-# Citation
+# Citation (Will soon be updated)
 
 When used, the method should be cited with reference to [Lund et al. 2016.](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
 
 Also, the code is to be cited using the following doi: doi:XXX when describing the methods or using e.g. the following sentence as an acknowledgement: "The code used for analysis was provided in a repository at https://github.com/theresenoest/Discrete_curve_group_code".
 
 # Issues 
-Please report any issues regarding the contents of the repository [here] (https://github.com/theresenoest/Discrete_curve_group_code/issues). 
+Please report any issues regarding the contents of the repository
