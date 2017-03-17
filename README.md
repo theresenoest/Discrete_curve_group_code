@@ -23,7 +23,9 @@ duration in time that is included in each curve group must be considered and cho
 Also, adjustments of e.g. reading of the data, variable names and file paths must be performed for each data set.
 Further details can be found in each script.
 
-# Citation (Will soon be updated)
+# Citation
+
+This section will be updated soon.
 
 When used, the method should be cited with reference to [Lund et al. 2016.](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-016-0129-z)
 
