@@ -30,4 +30,4 @@ When used, the method should be cited with reference to [Lund et al. 2016.](http
 Also, the code is to be cited using the following doi: doi:XXX when describing the methods or using e.g. the following sentence as an acknowledgement: "The code used for analysis was provided in a repository at https://github.com/theresenoest/Discrete_curve_group_code".
 
 # Issues 
-Please report any issues regarding the contents of the repository
+Please report any issues regarding the contents of the repository [here.](http://github.com/theresenoest/Discrete_curve_group_code/issues)
