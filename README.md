@@ -23,6 +23,9 @@ duration in time that is included in each curve group must be considered and cho
 Also, adjustments of e.g. reading of the data, variable names and file paths must be performed for each data set.
 Further details can be found in each script.
 
+The code requires two input files and are referred to in the script as 'prospectiveCancerData.R'. One input file should contain expression data with the form of probes as rows (identifiers as NuIDs) and person identifiers as columns.
+One other data file should contain 'background information' (e.g. case-control status) and should have people identifiers as rows and variables as columns.
+
 # Citation
 
 This section will be updated soon.
